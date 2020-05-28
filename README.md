@@ -4,7 +4,9 @@ Female Gizmo Jasper
 
 How to run the application.
 
-Method 1 -Download the code into eclipse as maven project and Right Click on main file PeoplePet.java and run as-> java application will give you the result. Method 2 - There are 2 ways
+Method 1 -Download the code into eclipse as maven project and Right Click on main file PeoplePet.java and run as-> java application will give you the result. 
+
+Method 2 - There are 2 ways
 
 *You can download the jar file and paste in your desired location. Navigate to the jar file location. Open CMD and Run the following command: java -jar .jar
 

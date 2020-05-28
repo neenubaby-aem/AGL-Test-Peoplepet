@@ -17,6 +17,6 @@ Method 1 -Download the code into eclipse as maven project and Right Click on mai
 
 Method 2 - There are 2 ways
 
-*You can download the jar file inside the path(agl.com/jar) and paste in your desired location. Navigate to the jar file location. Open CMD and Run the following command: java -jar .jar
+*You can download the jar file inside the path(agl.com/jar) and paste in your desired location. Navigate to the jar file location. Open CMD and Run the following command: java -jar <jarfilename>.jar
 
 *Or Download the jar and paste in your desired location. Open Cmd and Run the following command: java -jar <jar-file-location\jar-file-name>.jar For eg: java -jar c:***\jarfilename.jar
